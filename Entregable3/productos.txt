@@ -1,0 +1,20 @@
+[
+  {
+    "title": "computadora",
+    "price": 150000,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChbYprfh5vMzjXe4j--kRQCWLhJEKjZyVEw&usqp=CAU",
+    "id": 1
+  },
+  {
+    "title": "monitor",
+    "price": 1000,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmqHwCdolN1uip6LufzhzPq6EfmNX0OpGv--Spm2zDCl7ooRZzEsFjRw7s6BLHycTTcYI&usqp=CAU",
+    "id": 2
+  },
+  {
+    "title": "mouse",
+    "price": 500,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNtgoZQUozhCInA3fDoOoe74Vqzy5Oh49fA&usqp=CAU",
+    "id": 3
+  }
+]
